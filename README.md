@@ -9,7 +9,7 @@ Our coursework will delve into the fundamentals of urban spatial analytics, unlo
 We will learn the basics of programming with Python, spatial analysis through Python Libraries, and advanced geoprocessing. At the conclusion of this course, we will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
 
 ## Research ideas
-I am particularly interested in the prevalence and prevention of both state and in-community violence in black urban communities, enfranchisement and social movements.
+I am particularly interested in the prevalence and prevention of both state and in-community violence in black urban communities, enfranchisement, and social movements.
 
 
 ## Objectives 
