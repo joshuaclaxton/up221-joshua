@@ -1,6 +1,5 @@
 # up221-joshua
 ## Hi, I'm Joshua 
-![My profile](https://github.com/joshuaclaxton/up221-joshua/blob/main/IMG_0737.jpg)
 My family originates from West Africa, but New Jersey & New York City is home and some of my formative time was spent in Jordan. My diasporic identity and deep immersion in Arabic speaking communities has informed much of my work and post-colonial research interests. In my free time, I enjoy all fitness activities (latest pursuit is calisthenics), any book on history or philosophy or speculative fiction, and I still hope to be a composing pianist when I grow up.
 
 ## UP221: GIS and Spatial Data Science
